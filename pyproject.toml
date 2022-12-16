@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Codes for trying Python"
 authors = ["Jooeon Kim <joo2theeon@gmail.com>"]
 readme = "README.md"
-packages = [{include = "try_python"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
